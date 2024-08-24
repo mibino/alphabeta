@@ -10,4 +10,4 @@ BeautifulSoup - 解析HTML格式
 Windows运行install.bat，Linux/MacOS运行install.sh（必须配置好环境变量！但是如果是release编译好的版本则不用，因为你也不用）\
 然后确保安装完成后，运行main.py
 ## 其它
-AlphaBeta遵循MIT协议，你可以使用AlphaBeta进行闭源商用，但是程序必须包含MIT协议，且标注“本程序部分功能基于AlphaBeta，遵循MIT协议。”\
+AlphaBeta遵循MIT协议，你可以使用AlphaBeta进行闭源商用，但是程序必须包含MIT协议，且标注“本程序部分功能基于AlphaBeta，遵循MIT协议。”
